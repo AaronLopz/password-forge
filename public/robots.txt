@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://password-forge-app.netlify.app/sitemap.xml
